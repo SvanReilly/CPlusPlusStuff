@@ -128,5 +128,5 @@ muestre en la salida estándar su suma, resta, multiplicación y división.*/
 	
 	
 	
-	return 0;
+	return 1;
 }
